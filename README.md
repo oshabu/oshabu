@@ -1,4 +1,4 @@
-## Hi There its oshabu time!
+## Hi There its oshabu time! 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=oshabu&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshabu&layout=compact" />
