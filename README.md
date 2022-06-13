@@ -6,4 +6,4 @@
 <img align="left" src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src= "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 
-
+![snake gif](https://github.com/oshabu/oshabu/blob/output/github-contribution-grid-snake.gif)
